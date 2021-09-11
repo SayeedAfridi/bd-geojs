@@ -1,0 +1,28 @@
+{
+  "name": "bd-geojs",
+  "version": "1.0.0",
+  "description": "Bangladesh Geolocation in js object",
+  "main": "index.js",
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayeedafridi/bd-geojs.git"
+  },
+  "keywords": [
+    "geolocation",
+    "bd",
+    "bangladesh",
+    "division",
+    "union",
+    "zilla",
+    "upazilla"
+  ],
+  "author": "Sayeed Afridi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sayeedafridi/bd-geojs/issues"
+  },
+  "homepage": "https://github.com/sayeedafridi/bd-geojs#readme"
+}
