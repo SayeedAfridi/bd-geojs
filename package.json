@@ -2,14 +2,18 @@
   "name": "bd-geojs",
   "version": "1.0.0",
   "description": "Bangladesh Geolocation in js object",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "''"
+    "test": ""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sayeedafridi/bd-geojs.git"
   },
+  "files": [
+    "dist/*"
+  ],
   "keywords": [
     "geolocation",
     "bd",
@@ -24,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/sayeedafridi/bd-geojs/issues"
   },
-  "homepage": "https://github.com/sayeedafridi/bd-geojs#readme"
+  "homepage": "https://github.com/sayeedafridi/bd-geojs#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
