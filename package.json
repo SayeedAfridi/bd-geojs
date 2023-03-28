@@ -1,11 +1,11 @@
 {
   "name": "bd-geojs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bangladesh Geolocation in js object",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": ""
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/sayeedafridi/bd-geojs#readme",
   "devDependencies": {
-    "typescript": "^4.4.3"
+    "typescript": "^5.0.2"
   }
 }
